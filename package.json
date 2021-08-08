@@ -22,7 +22,8 @@
         "sass-brunch":"*",
         "handlebars-brunch":"*",
         "uglify-js-brunch":"*",
-        "clean-css-brunch":"*"
+        "clean-css-brunch":"*",
+        "auspice":"*"
     },
     "devDependencies": {}
 }
